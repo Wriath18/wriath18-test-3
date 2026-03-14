@@ -1,24 +1,26 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+[![GitHub Followers](https://img.shields.io/github/followers/Wriath18?label=Followers&style=flat-square)](https://github.com/Wriath18)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-63-blue?style=flat-square)](https://github.com/Wriath18?tab=repositories)
+[![MLH](https://img.shields.io/badge/MLH-Coach-orange?style=flat-square)](https://mlh.io)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+Hi, I'm Sanidhya Goel. I am a Coach at Major League Hacking and actively build projects on GitHub as Wriath18.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- GitHub: https://github.com/Wriath18
+- Followers: 8
+- Following: 4
+- Public repositories: 63
+- Private repositories (owned): 27
+- GitHub account created: 2020-10-31
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+## MyMLH Snapshot
+- Name: Sanidhya Goel
+- Current professional role listed: Coach at Major League Hacking
+- Country of residence: Not set
+- Time zone: Not set
+- Education entries: None listed
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## Notes
+This README is populated from live GitHub MCP and MyMLH MCP profile data fetched on 2026-03-14.
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
